@@ -1,0 +1,3 @@
+IMPORT_LIB := mingw32 SDL2_ttf SDL2main SDL2 gsl m
+IMPORT_LIB_PATH := 
+IMPORT_INC_PATH := 
